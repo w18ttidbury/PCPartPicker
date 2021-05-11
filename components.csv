@@ -1,0 +1,116 @@
+Component,Type,Compatibility,Price
+Ryzen 5 2600,CPU,A,160
+Ryzen 5 2600X,CPU,A,180
+Ryzen 5 3600,CPU,A,200
+Ryzen 5 3600X,CPU,A,250
+Ryzen 5 3600XT,CPU,A,260
+Ryzen 5 5600X,CPU,A,300
+Ryzen 7 5800X,CPU,A,450
+Ryzen 9 5900X,CPU,A,550
+Ryzen 9 5950X,CPU,A,800
+AMD ThreadRipper 3990X,CPU,A,4000
+
+Intel Core i3-10100F,CPU,I,0
+
+GeForce GTX 1050,GPU,IA,0
+GeForce GTX 1050 ti,GPU,IA,0
+GeForce GTX 1050 Super,GPU,IA,0
+GeForce GTX 1650,GPU,IA,0
+GeForce GTX 1650 ti,GPU,IA,0
+GeForce GTX 1650 Super,GPU,IA,0
+GeForce GTX 1660,GPU,IA,0
+GeForce GTX 1660 ti,GPU,IA,0
+GeForce GTX 1660 Super,GPU,IA,0
+GeForce GTX 1060 3GB,GPU,IA,0
+GeForce GTX 1060 6GB,GPU,IA,0
+GeForce GTX 1060 ti 6GB,GPU,IA,0
+GeForce GTX 1060 Super 6GB,GPU,IA,0
+GeForce GTX 1070,GPU,IA,0
+GeForce GTX 1070 ti,GPU,IA,0
+GeForce GTX 1070 Super,GPU,IA,0
+GeForce GTX 1080,GPU,IA,0
+GeForce GTX 1080 ti,GPU,IA,0
+GeForce GTX 1080 Super,GPU,IA,0
+
+GeForce RTX 2060,GPU,IA,0
+GeForce RTX 2060 ti,GPU,IA,0
+GeForce RTX 2060 Super,GPU,IA,0
+GeForce RTX 2070,GPU,IA,0
+GeForce RTX 2070 ti,GPU,IA,0
+GeForce RTX 2070 Super,GPU,IA,0
+GeForce RTX 2080,GPU,IA,0
+GeForce RTX 2080 ti,GPU,IA,0
+GeForce RTX 2080 Super,GPU,IA,0
+
+GeForce RTX 3060,GPU,IA,350
+GeForce RTX 3060 ti,GPU,IA,0
+GeForce RTX 3060 Super,GPU,IA,0
+GeForce RTX 3070,GPU,IA,600
+GeForce RTX 3070 ti,GPU,IA,0
+GeForce RTX 3070 Super,GPU,IA,0
+GeForce RTX 3080,GPU,IA,700
+GeForce RTX 3080 ti,GPU,IA,0
+GeForce RTX 3080 Super,GPU,IA,0
+GeForce RTX 3090,GPU,IA,1500
+GeForce RTX 3090 ti,GPU,IA,0
+GeForce RTX 3090 Super,GPU,IA,0
+
+Ryzen Threadripper 2920X,CPU,A,775
+AMD Ryzen 3 Quad Core 1200,CPU,A,140
+Intel Core i9-7980XE,CPU,I,1200
+Intel Core i7-6700,CPU,I,240
+Intel Core i3-6100T,CPU,I,90
+GeForce RTX 2080 Ti FTW3 ULTRA GAMING,GPU,I,1300
+GeForce GTX 1080 Ti GAMING,GPU,I,825
+Radeon R9 390X GAMING 8G,GPU,A,395
+ROG Strix GeForce GTX 1070 OC Edition,GPU,A,550
+AORUS GeForce GTX 1080 8G,GPU,I,690 
+ASUS ROG Rampage VI Apex,MB,I,600
+ASUS ROG Strix Z370-E Gaming,MB,I,210
+EVGA X299 Micro,MB,A,120
+GIGABYTE B450 AORUS M,MB,A,85
+ASUS ROG Rampage VI Extreme,MB,I,640
+Patriot Viper RGB (White) 8GB (1x 8GB) 2666,RAM,I,90
+ADATA SPECTRIX D40 RGB 8GB (1x 8GB) 4400,RAM,A,230
+G.SKILL FORTIS 8GB (1x 8GB) 2133,RAM,A,60
+ADATA Premier Series 4GB (1x 4GB) 2133,RAM,I,34 
+ADATA XPG Z1 8GB (1x 8GB) 4600,RAM,I,280
+ADATA XPG GAMMIX S11 M.2 240GB,SSD,IA,130
+ADATA XPG GAMMIX S11 M.2 960GB,SSD,IA,400
+CORSAIR Force Series - LE200 960GB,SSD,IA,350 
+ADATA XPG SX950U 960GB,SSD,IA,340
+Patriot Burst 240GB,SSD,IA,105
+BarraCuda 500GB 32MB Cache,HDD,I,50
+BarraCuda 4TB 256MB Cache,HDD,I,130
+EZStore 120GB,HDD,A,20
+EZStore 500GB,HDD,A,50
+GamerStorm Fryzen,Cooling,I/A,130
+Raijintek Themis Evo,Cooling,I/A,35
+SilverStone AR08,Cooling,I/A,60
+CORSAIR H150i PRO RGB 360mm,Cooling,I/A,200
+NZXT Kraken X62,Cooling,I/A,100
+Cooler Master MasterWatt Maker 1200 MIJ,PSU,I,999
+CORSAIR AX1600i,PSU,I,450
+FSP Dagger Pro 550W,PSU,I,115
+Thermaltake Toughpower iRGB PLUS 1200W,PSU,A,270
+Shean Powerking 400,PSU,A,50
+CORSAIR Obsidian Series 900D,Case,I/A,360
+Cooler Master MasterCase H500P,Case,I/A,150
+Deepcool MATREXX 55,Case,I/A,50
+GamerStorm Quadstellar,Case,I/A,400
+NZXT H440 Hyper Beast,Case,I/A,200
+AOC 21.5 Full HD Monitor,Monitor,I/A,80
+Alienware AW2521HFLA Full HD Monitor,Monitor,I/A,350
+Dell S2721HGF LCD Gaming Monitor,Monitor,I/A,199
+Samsung Odyssey G95 HD QLED,Monitor,I/A,1250
+BENQ EL2870U 4K Ultra HD Gaming Monitor,Monitor,I/A,259
+SteelSeries Rival 3 RGB,Mouse,I/A,35
+Logitech G502 Hero,Mouse,I/A,50
+Razer Viper 8K,Mouse,I/A,80
+Alienware AW610M,Mouse,I/A,65
+Corsair Harpoon,Mouse,I/A,30
+ADX ADXA0419 Gaming Keyboard,Keyboard,I/A,25
+Razer Ornata Gaming Keyboard,Keyboard,I/A,85
+SteelSeries Apex Pro Gaming Keyboard,Keyboard,I/A,200
+Logitech G815 Lightspeed Gaming Keyboard,Keyboard,I/A,140
+Alienware AW510K Gaming Keyboard,Keyboard,I/A,1304
